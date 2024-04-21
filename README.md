@@ -1,2 +1,2 @@
 This is a frontend clone of Twitter application(now called X) using Tailwind CSS. 
-![alt text](images/WhatsApp Image 2024-04-21 at 11.43.55 PM.jpeg)
+![preview](https://github.com/subhojit26/Tailwind_Twitter/assets/98642337/8ea57421-57c6-484f-9fbe-73ec91753c20)
